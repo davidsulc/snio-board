@@ -102,6 +102,12 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com/in/marc-schlaeppi-96503a96/
             icon: fab fa-linkedin-in
+      - name: "Natalie Kalbermatten"
+        role: "Vice Chairwoman"
+        image: assets/img/team/natalie.jpeg
+        social:
+          - url: https://linkedin.com/in/natalie-kalbermatten-a9a554101/
+            icon: fab fa-linkedin-in
       - name: "Marie-Estelle Gaignard"
         role: "Secretary"
         image: assets/img/team/m-e.jpeg
@@ -119,12 +125,6 @@ en: &DEFAULT_EN
         image: assets/img/team/florian.jpeg
         social:
           - url: https://linkedin.com/in/florian-strasser-76013640/
-            icon: fab fa-linkedin-in
-      - name: "Natalie Kalbermatten"
-        role: "Misc"
-        image: assets/img/team/natalie.jpeg
-        social:
-          - url: https://linkedin.com/in/natalie-kalbermatten-a9a554101/
             icon: fab fa-linkedin-in
 
   contact:
