@@ -86,6 +86,9 @@ en: &DEFAULT_EN
       - title: "KSSG"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/KSSG.png
+      # - title: "STGAG"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/STGAG.jpg
 
   team:
     title: "The core team"
