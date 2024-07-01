@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Seminars"
-        desc: Training to keep ubreast of this changing field
+        desc: Training to keep abreast of this changing field
         icon: fas fa-user-graduate #find more at https://fontawesome.com/icons
       - title: "Research"
         desc: Expanding undestanding in our field through conjoined efforts
