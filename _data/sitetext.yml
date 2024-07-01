@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to our homepage!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Objectives"
+    text: "How we drive progress in the field of integrative oncology"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Seminars"
+        desc: Training to keep ubreast of this changing field
+        icon: fas fa-user-graduate #find more at https://fontawesome.com/icons
+      - title: "Research"
+        desc: Expanding undestanding in our field through conjoined efforts
+        icon: fas fa-clipboard-list
+      - title: Networking
+        desc: Exchange ideas with professionals from various fields related to integrative oncology
+        icon: fas fa-globe
 
   portfolio:
     title: "Portfolio"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "The Swiss Network for Integrative Oncology saw the light of day in 2024 after many years of effort by Marc Schlaeppi to bring together institutions across Switzerland, in order to advance the field of integrative oncology."
     section: about
 
   clients:
@@ -79,54 +79,48 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "CHUV"
+        url: https://www.chuv.ch/fr/chuv-home
+        logo: assets/img/clients/chuv.svg
+      - title: "HFR"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+        logo: assets/img/clients/hfr.svg
+      - title: "HUG"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+        logo: assets/img/clients/hug.svg
+      - title: "KSSG"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/KSSG.png
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Teamwork makes the dream work"
+    subtext: ""
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Marc Schlaeppi"
+        role: "Chairman"
+        image: assets/img/team/marc.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/marc-schlaeppi-96503a96/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Marie-Estelle Gaignard"
+        role: "Secretary"
+        image: assets/img/team/m-e.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/marie-estelle-gaignard-0b9a6b170/
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Gisèle Montavon"
+        role: "Treasurer"
+        image: assets/img/team/gisele.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://linkedin.com/in/gisèle-montavon-647598306/
+            icon: fab fa-linkedin-in
+      - name: "Florian Strasser"
+        role: "Research"
+        image: assets/img/team/florian.jpeg
+        social:
+          - url: https://linkedin.com/in/florian-strasser-76013640/
             icon: fab fa-linkedin-in
 
   contact:
