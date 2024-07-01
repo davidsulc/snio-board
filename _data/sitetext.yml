@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fas fa-globe
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Projects"
+    text: "Our current areas of focus"
     section: portfolio
     closebutton: "Close Project"
 
@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/KSSG.png
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "The core team"
     text: "Teamwork makes the dream work"
     subtext: ""
     section: team
@@ -116,6 +116,12 @@ en: &DEFAULT_EN
         image: assets/img/team/florian.jpeg
         social:
           - url: https://linkedin.com/in/florian-strasser-76013640/
+            icon: fab fa-linkedin-in
+      - name: "Natalie Kalbermatten"
+        role: "Misc"
+        image: assets/img/team/natalie.jpeg
+        social:
+          - url: https://linkedin.com/in/natalie-kalbermatten-a9a554101/
             icon: fab fa-linkedin-in
 
   contact:

@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Seminar organization
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
+  title: Seminar organization
   subtitle: Identity
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
